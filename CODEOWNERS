@@ -1,0 +1,20 @@
+ Lines starting with '#' are comments.
+
+# Default owners for everything in the repo.
+*       @natureOffice-EDV
+
+# Specific owner for all .md files in the root directory.
+# /*.md   @documentation-team
+
+# Specific owner for all files in the /scripts directory (and its subdirectories).
+# /scripts/  @script-team
+
+# Order is important. The last matching pattern has the most precedence.
+# If a user or team is responsible for a specific sub-directory:
+# /src/api/ @api-team
+
+# You can also specify individual files.
+# /README.md @documentation-team
+
+# Using email addresses to specify the owner
+#/docs/CONTRIBUTING.md user@example.com
