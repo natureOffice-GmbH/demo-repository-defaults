@@ -1,7 +1,7 @@
  Lines starting with '#' are comments.
 
 # Default owners for everything in the repo.
-*       @natureOffice-EDV
+*       @natureOffice
 
 # Specific owner for all .md files in the root directory.
 # /*.md   @documentation-team
